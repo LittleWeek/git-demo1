@@ -6,3 +6,6 @@ this is the second day for studying git！
 
 
 独孤九剑
+
+
+测试ssh 免密登录
