@@ -9,3 +9,6 @@ this is the second day for studying git！
 
 
 测试ssh 免密登录
+
+
+免密登录果然名不虚传，就是这个端口不给力，花了我好大功夫
